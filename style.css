@@ -1,0 +1,53 @@
+body{
+    background-color: #afeeee;
+    font-family: Trattatello ;
+    border-radius: solid 1px;
+}
+
+header{
+    font-size:45px ;
+    text-align: center;
+}
+.fsb{
+    width: 300px;
+    height: 60px;
+}
+h2{
+    border: solid 3px;
+    border-color: rgb(226, 226, 226);
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+nav{
+    font-size: 20px;
+}
+
+nav a{
+   text-decoration: none; 
+   color: brown; 
+   border: solid 2px;
+   border-radius:10px;
+   font-size: 25px;
+}
+
+.yo{
+    width: 200px;
+    height: 80px;
+}
+
+.WOK{
+    height: 200px;
+}
+
+.jo{
+    width: 200px;
+    height: 210px;
+}
+
+.xz{
+    width: 300px;
+    height: 83px;
+}
+p{
+    font-size: 18px;
+}
