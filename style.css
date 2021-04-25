@@ -2,6 +2,7 @@ body{
     background-color: #afeeee;
     font-family: Trattatello ;
     border-radius: solid 1px;
+    margin: 0px;
 }
 
 header{
@@ -24,7 +25,7 @@ nav{
 
 nav a{
    text-decoration: none; 
-   color: brown; 
+   color: #00008B; 
    border: solid 2px;
    border-radius:10px;
    font-size: 25px;
@@ -50,4 +51,26 @@ nav a{
 }
 p{
     font-size: 18px;
+}
+
+footer{
+    background-color: #BA55D3;
+}
+
+p{
+    font-size: 20px;
+}
+
+tr{
+    
+}
+
+td{
+   border:1px solid black;
+   width: 200px;
+   height: 35px;
+}
+
+table{
+    border-collapse:collapse;
 }
